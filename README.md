@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Shaun
-**I love building interesting projects. I enjoy building web apps, and working with new technologies. I actively participate in hackathons, considering them invaluable learning experiences. I see challenges as chances to learn and improve. I also like working with others and talking about tech stuff.**
+**I love building interesting projects. I enjoy building web apps, and working with new technologies. I see challenges as chances to learn and improve. I also like working with others and talking about tech stuff.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaunfurtado&label=Profile%20views&color=111814&style=flat" alt="Shaunfurtado" /></p>
 
