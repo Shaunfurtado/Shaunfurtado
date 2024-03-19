@@ -13,7 +13,7 @@
 
 </div>
 
-- 🌱 Currently learning Blockchain and Big Data.
+- 🌱 Currently exploring Blockchain.
 - 📫 You can reach me at shaunf1801@gmail.com.
 - ⚡ Fun fact: I'm a big fan of FPS and Open World games and I also like Anime.
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaunfurtado&theme=highcontrast" alt="Shaunfurtado" /></p>
 
 <h3 align="center">Connect with me:</h3>
@@ -32,7 +32,7 @@
 
 <h3 align="center">I like to work with:</h3>
 <p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
 </a>
@@ -42,8 +42,8 @@
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+
+
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a> 
@@ -88,7 +88,4 @@
 
 
 <hr>
-<div align="center">   
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaunfurtado&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Shaunfurtado" /></p>
-</div>
-</div>
+
