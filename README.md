@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Shaun
-**I love building interesting projects. I enjoy building web apps, and working with new technologies. I see challenges as chances to learn and improve. I also like working with others and talking about tech stuff.**
+**I enjoy building web apps, and working with new technologies. Always on the hunt for learning something new.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaunfurtado&label=Profile%20views&color=111814&style=flat" alt="Shaunfurtado" /></p>
 
@@ -13,9 +13,9 @@
 
 </div>
 
-- 🌱 Currently exploring Blockchain.
+- 🌱 Currently exploring Procederal Rendering and Data Analytics.
 - 📫 You can reach me at shaunf1801@gmail.com.
-- ⚡ Fun fact: I'm a big fan of FPS and Open World games and I also like Anime.
+- ⚡ Fun fact: I'm a big fan of FPS and I also like Anime.
 
 <hr>
 
@@ -37,13 +37,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
-
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a> 
@@ -66,9 +61,6 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 </a>
-<a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/>
-</a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
 </a>
@@ -77,9 +69,6 @@
 </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
