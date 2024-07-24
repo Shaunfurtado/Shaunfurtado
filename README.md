@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaunfurtado&label=Profile%20views&color=111814&style=flat" alt="Shaunfurtado" /></p>
 
-<hr>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shaunfurtado&show_icons=true&locale=en&theme=highcontrast" alt="Shaunfurtado" /></p>
-
-<hr>
-
 </div>
 
 - 🌱 Currently exploring Procederal Rendering and Data Analytics.
