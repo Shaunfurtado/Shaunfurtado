@@ -3,7 +3,6 @@
 # Hey there, I'm Shaun
 **I enjoy building web apps, and working with new technologies. Always on the hunt for learning something new.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaunfurtado&label=Profile%20views&color=111814&style=flat" alt="Shaunfurtado" /></p>
 
 </div>
 
