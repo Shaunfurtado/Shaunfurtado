@@ -6,7 +6,7 @@
 
 </div>
 
-- 🌱 Currently exploring Procederal Rendering and Data Analytics.
+- 🌱 Currently exploring Real Time Applications and Data Analytics.
 - 📫 You can reach me at shaunf1801@gmail.com.
 - ⚡ Fun fact: I'm a big fan of FPS and I also like Anime.
 
